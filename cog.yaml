@@ -5,7 +5,7 @@ build:
     - torch==2.0.1
     - torchvision==0.15.2
     - diffusers==0.25.1
-    - transformers==4.34.0
+    - transformers==4.36.0
     - accelerate==0.23.0
     - opencv-python==4.8.1.78
     - Pillow==10.0.1
@@ -18,8 +18,9 @@ build:
     - requests==2.31.0
     - matplotlib==3.8.0
     - einops==0.7.0
-    - safetensors==0.3.3
+    - safetensors==0.4.0
     - huggingface-hub==0.20.3
+    - tokenizers==0.15.0
     - git+https://github.com/sajjjadayobi/FaceLib.git@382841efec823f059f49754e5d378abb12cfb551
   system_packages:
     - libgl1-mesa-glx
