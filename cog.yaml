@@ -19,7 +19,7 @@ build:
     - matplotlib==3.8.0
     - einops==0.7.0
     - safetensors==0.3.3
-    - huggingface-hub>=0.20.2
+    - huggingface-hub==0.20.3
     - git+https://github.com/sajjjadayobi/FaceLib.git@382841efec823f059f49754e5d378abb12cfb551
   system_packages:
     - libgl1-mesa-glx
