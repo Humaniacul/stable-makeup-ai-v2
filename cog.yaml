@@ -15,7 +15,6 @@ build:
     - mediapipe==0.10.8
     - facexlib==0.3.0
     - spiga==0.0.6
-    - dlib==19.24.2
     - requests==2.31.0
     - matplotlib==3.7.2
   system_packages:
